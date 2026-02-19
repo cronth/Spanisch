@@ -1,6 +1,6 @@
 # Rita Rebelde – Vokabelliste
-## Version: 3
-## Letzte Änderung: 2026-02-19
+## Version: 4
+## Letzte Änderung: 2026-02-20
 
 ## Regeln
 - Die Kopfzeile und die Trennzeile der Tabelle werden niemals verändert.
@@ -14,15 +14,24 @@
 |---|---|---|---|---|
 | árbol | Baum | Nomen | El árbol es grande. | eingeführt im Zelt |
 | cabeza | Kopf | Nomen | Mi cabeza. | Spieler kann es schon |
-| mano | Hand | Nomen | Mi mano. | fehlte zuvor, jetzt ergänzt |
-| dedos | Finger | Nomen | Mis dedos. | Plural im Beispiel |
-| cama | Bett | Nomen | La cama. | Spieler sagte zuerst falsch |
-| tierra | Erde/Boden | Nomen | La tierra. | Boden draußen/Erde |
-| cielo | Himmel | Nomen | El cielo. | Himmel draußen |
-| mesa | Tisch | Nomen | La mesa. | im Zelt/nahe Sitzplatz |
-| puerta | Tür | Nomen | La puerta. | eingeführt Session 2 |
-| manta | Decke | Nomen | La manta. | eingeführt Session 2 |
-| botella | Flasche | Nomen | La botella. | eingeführt Session 2 |
-| agua | Wasser | Nomen | El agua. | eingeführt Session 2 |
-| cuerda | Seil | Nomen | La cuerda. | eingeführt Session 2 |
-| cuchillo | Messer | Nomen | El cuchillo. | eingeführt Session 2 |
+| mano | Hand | Nomen | Mi mano. | |
+| dedos | Finger | Nomen | Mis dedos. | |
+| cama | Bett | Nomen | La cama. | |
+| tierra | Erde/Boden | Nomen | La tierra. | |
+| cielo | Himmel | Nomen | El cielo. | |
+| mesa | Tisch | Nomen | La mesa. | |
+| puerta | Tür | Nomen | La puerta. | |
+| manta | Decke | Nomen | La manta. | |
+| botella | Flasche | Nomen | La botella. | |
+| agua | Wasser | Nomen | El agua. | |
+| cuerda | Seil | Nomen | La cuerda. | |
+| cuchillo | Messer | Nomen | El cuchillo. | |
+| fuego | Feuer | Nomen | El fuego. | Session 3 |
+| olla | Topf | Nomen | La olla. | Session 3 |
+| tienda | Zelt | Nomen | La tienda. | Session 3 |
+| hombre | Mann | Nomen | El hombre. | Session 3 |
+| mujer | Frau | Nomen | La mujer. | Session 3 |
+| mochila | Rucksack | Nomen | La mochila. | Session 3 |
+| camioneta | Pickup | Nomen | La camioneta. | Session 3 |
+| bandera | Fahne | Nomen | La bandera. | Session 3 |
+| campamento | Lager | Nomen | El campamento. | Session 3 |
