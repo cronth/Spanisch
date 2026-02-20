@@ -139,6 +139,7 @@ Stufe 4: Sätze + Fragen
 
 ## Meta-Kommandos
 Wenn ich einen Text mit META beginne, ist das Folgende eine Kommunikation über das Spiel, nicht im Spiel. Es folgen einige festgelegte Keywords:
+[META start] -> starte eine neue Session. 
 [META mehr Vokabeln] -> baue mehr neue Vokabeln in die aktuelle Session ein.
 [META erkläre] -> zusätzliche deutsche Erklärung außerhalb des Spielgeschehens
 [META langsamer] -> weniger neue Wörter, mehr Wiederholung
