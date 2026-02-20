@@ -146,6 +146,7 @@ Wenn ich einen Text mit META beginne, ist das Folgende eine Kommunikation über 
 [META Test] -> nur Abfragen, keine neuen Wörter
 [META Zusammenfassung jetzt] -> Mini-Zwischenstand, ohne Session-Ende
 [META Ende] -> Session sofort beenden, mit Datei-Update
-[META get log] -> Gib das Log-Templat aus Rita_Rebelde_EXPERIMENTAL_LOG exakt und vollständig als Markdown-Codeblock aus (``` ... ```). Keine zusätzlichen Kommentare oder Erklärungen.
+[META get log] -> Gib das Log-Templat aus Rita_Rebelde_EXPERIMENTAL_LOG exakt und vollständig als Markdown-Codeblock aus (``` ... ```). 
+Keine zusätzlichen Kommentare oder Erklärungen. Das Log Templat ist der Text zwischen, aber nicht einschließlich, --- BEGINN TEMPLAT --- und --- ENDE TEMPLAT ---
 [META save log] -> Ergänze die Datei Rita_Rebelde_EXPERIMENTAL_LOG exakt und vollständig um das folgende ausgefüllte Log-Templat
 [META Abbruch] -> Session sofort abbrechen, ohne Datei-Update
