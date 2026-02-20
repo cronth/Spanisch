@@ -43,7 +43,10 @@ Du änderst nach jeder Session:
 - Du überprüftst, ob du alle neuen Vokabeln inkrementell eingefügt hast und ergänzt die Tabelle, falls dies nicht der Fall ist.
 - Du erhöhst die ### Version um 1.
 - Du aktualisierst ### Letzte Änderung auf das aktuelle Datum.
-
+#### Aktualisierung von Rita_Rebelde_EXPERIMENTAL_LOG
+- Du gibst im Chat das Templat aus der Datei aus. Unter Datum ergänzt du das aktuelle Datum.
+- Ich fülle das Templat als Log der aktuellen Session. 
+- Du ergänzt die Datei mit meinem aktuellen Log.
 
 ## Kontext / Hintergrund
 Wir machen ein Rollenspiel. Ich bin der Spieler. 
