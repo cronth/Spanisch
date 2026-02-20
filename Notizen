@@ -1,0 +1,4 @@
+„exakt und vollständig“ verhindert Umformulierungen
+„als Markdown-Codeblock (...)" erzwingt Monospace-Ausgabe
+„Keine zusätzlichen Kommentare“ verhindert Meta-Erklärungen
+Dateiname explizit → verhindert falsche Quelle
