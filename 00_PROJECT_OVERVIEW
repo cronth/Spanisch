@@ -1,0 +1,16 @@
+# Rita Rebelde – Experimental Didactic Engine
+
+## Projektziel
+Iteratives Sprachlern-Framework mit Rollenspielmechanik.
+
+## Hauptprinzip
+Hypothese → Intervention → Durchführung → Evaluation → Entscheidung
+
+## Architektur
+- CORE (stabil)
+- DATA (Vokabeln)
+- SESSION
+- EXPERIMENT_LOG
+
+## Aktueller Fokus
+(Stufe / aktives Testfeld)
