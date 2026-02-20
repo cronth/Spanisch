@@ -7,10 +7,14 @@ Iteratives Sprachlern-Framework mit Rollenspielmechanik.
 Hypothese → Intervention → Durchführung → Evaluation → Entscheidung
 
 ## Architektur
-- CORE (stabil)
-- DATA (Vokabeln)
-- SESSION
-- EXPERIMENT_LOG
+### Rita_Rebelde_CORE
+- statisch, wird nur durch den User geändert.
+### Rita_Rebelde_STATE
+- dynamisch, wird durch ChatGPT am Ende einer Session ergänzt.
+### Rita_Vokabeln
+- dynamisch, wird von ChatGPT inkrementell bei der Einführung einer neuen Vokabel ergänzt. 
+### Rita_Rebelde_EXPERIMENTAL_LOG
+- dynamisch, wird durch ChatGPT am Ende einer Sitzung durch Befehl des Users ergänzt.
 
 ## Aktueller Fokus
 (Stufe / aktives Testfeld)
